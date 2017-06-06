@@ -1,0 +1,23 @@
+.menu img {
+  margin-top: rem-calc(50);
+  margin-bottom: rem-calc(100);
+}
+
+.menu li {
+  margin-top: rem-calc(50);
+  margin-left: rem-calc(5);
+}
+
+.menu a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: #fff;
+  transition: 1s;
+}
+
+.menu a:hover {
+  color: #26b3ba;
+  transition: 1s;
+}

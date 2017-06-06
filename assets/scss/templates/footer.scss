@@ -1,0 +1,117 @@
+
+.footer-container {
+  position: relative;
+}
+
+#arrow {
+  background-image: url(../images/arrow.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 10%;
+  bottom: 35%;
+  height: rem-calc(75);
+  width: rem-calc(75);
+  cursor: pointer;
+}
+
+.newsletter {
+  width: rem-calc(250);
+  height: rem-calc(80);
+  border: 1px solid #fff;
+  padding-top: 13px;
+  margin: 0 auto;
+  color: #fff;
+  line-height: rem-calc(26);
+  font-weight: 600;
+  font-size: rem-calc(22);
+  letter-spacing: 2px;
+  transition: 0.7s;
+  cursor: pointer;
+}
+
+.newsletter:hover {
+  width: rem-calc(250);
+  height: rem-calc(80);
+  border: 1px solid #26b3ba;
+  padding-top: 13px;
+  margin: 0 auto;
+  color: #26b3ba;
+  line-height: rem-calc(26);
+  font-weight: 600;
+  font-size: rem-calc(22);
+  letter-spacing: 2px;
+  transition: 0.7s;
+}
+
+.newsletter strong {
+font-weight: 300;
+font-size: rem-calc(13);
+letter-spacing: 2px;
+}
+
+.menu a {
+  margin-left: rem-calc(30);
+  margin-right: rem-calc(30);
+  margin-top: rem-calc(30);
+}
+
+.facebook {
+  width : 40px;
+  height : 40px;
+  display : block;
+  background : url(../images/facebook.png);
+  transition: 1s;
+}
+
+.facebook:hover {
+  background : url(../images/facebook-hover.png);
+  transition: 1s;
+}
+
+.twitter {
+  width : 46px;
+  height : 39px;
+  display : block;
+  background : url(../images/twitter.png);
+  transition: 1s;
+}
+
+.twitter:hover {
+  background : url(../images/twitter-hover.png);
+  transition: 1s;
+}
+
+.instagram {
+  width : 43px;
+  height : 43px;
+  display : block;
+  background : url(../images/instagram.png);
+  transition: 1s;
+}
+
+.instagram:hover {
+  background : url(../images/instagram-hover.png);
+}
+
+.youtube {
+  width : 53px;
+  height : 38px;
+  display : block;
+  background : url(../images/youtube.png);
+  transition: 1s;
+}
+
+.youtube:hover {
+  background : url(../images/youtube-hover.png);
+  transition: 1s;
+}
+
+.texte p {
+  margin-top: rem-calc(30);
+  color: #fff;
+}
+
+.texte p strong {
+letter-spacing: 2px;
+}

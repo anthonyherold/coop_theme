@@ -43,9 +43,9 @@ C’est sur ce site que la Ville de Strasbourg et la SPL Deux-Rives visent à co
 		<h4>Composition de la virgule</h4>
 		</div>
 		<div class="row">
-	  <div class="small-12 large-4 columns"><a href="index.html"><img class="menuiserie" src="wp-content/themes/coop_theme/assets/images/menuiserie.jpg"/></a></div>
-	  <div class="small-12 large-4 columns"><img class="semencerie" src="wp-content/themes/coop_theme/assets/images/semencerie.jpg"></div>
-	  <div class="small-12 large-4 columns"><img class="garage" src="wp-content/themes/coop_theme/assets/images/garage.jpg"></div>
+	  <div class="small-12 large-4 columns"><a href="#"><img class="menuiserie" src="wp-content/themes/coop_theme/assets/images/menuiserie.jpg"/></a></div>
+	  <div class="small-12 large-4 columns"><a href="#"><img class="semencerie" src="wp-content/themes/coop_theme/assets/images/semencerie.jpg"></a></div>
+	  <div class="small-12 large-4 columns"><a href="#"><img class="garage" src="wp-content/themes/coop_theme/assets/images/garage.jpg"></a></div>
 	</div>
 </section>
 

@@ -16,6 +16,28 @@
 				<?php do_action( 'foundationpress_before_footer' ); ?>
 				<?php dynamic_sidebar( 'footer-widgets' ); ?>
 				<?php do_action( 'foundationpress_after_footer' ); ?>
+
+
+				<section class="section-footer text-center">
+					<div id="arrow"></div>
+					<div class="row">
+						<div class="newsletter">NEWSLETTER<br><strong>CLIQUEZ ICI / CLICK HERE</strong></div>
+
+				<div class="menu-centered">
+					<ul class="menu">
+						<li><a href="#" class="facebook"></a></li>
+						<li><a href="#" class="twitter"></a></li>
+						<li><a href="#" class="instagram"></a></li>
+						<li><a href="#" class="youtube"></a></li>
+					</ul>
+				</div>
+				<div class="texte">
+					<p><strong>LA COOPÉRATIVE CRÉATIVE - SITE OFFICIEL 2017 - TOUS DROITS RÉSERVÉS</strong> <br>Design : Anthony HEROLD</p>
+				</div>
+			</div>
+		</section>
+
+
 			</footer>
 		</div>
 
