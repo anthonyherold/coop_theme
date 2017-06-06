@@ -14,6 +14,9 @@
  * @since FoundationPress 1.0.0
  */
 
+ define ("_category", 5);
+ define ("_home", 2);
+
 /** Various clean up functions */
 require_once( 'library/cleanup.php' );
 

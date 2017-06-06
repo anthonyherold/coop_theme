@@ -1,0 +1,21 @@
+.category {
+    background-image: url(../images/fond-cat.png);
+    background-size: cover;
+    min-height: rem-calc(2000);
+      background-position: 50% 38%;
+}
+
+.title {
+  font-size: rem-calc(30);
+  font-weight: 800;
+  color: #26b3ba;
+  margin-top: rem-calc(150);
+}
+
+.description {
+  font-size: rem-calc(24);
+  color: #fff;
+  margin-top: rem-calc(30);
+  letter-spacing: 3px;
+  margin-bottom: rem-calc(60);
+}
