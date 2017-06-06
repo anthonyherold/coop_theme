@@ -4,7 +4,17 @@ Template Name: Front
 */
 get_header(); ?>
 
-<section class="section-1">
+
+<section class="section-1 text-center">
+	<div class="row">
+		<h1>RÉNOVATION DE LA COOPÉRATIVE DU PORT DU RHIN</h1>
+		<h2>UN PROJET ARTISTIQUE AMBITIEUX À STRASBOURG</h2>
+		<a href="about.html" class="button">DÉCOUVRIR LE PROJET</a>
+	</div>
+</section>
+
+
+<section class="section-2">
 <div class="row">
 		<h3 class="large-6 columns">Qu'est ce que la COOP ?</h3>
 </div>
@@ -22,7 +32,7 @@ Aux côtés des espaces à vocation socio-culturelle, de l’habitat et des bure
 </section>
 
 
-<section class="section-2">
+<section class="section-3">
 	<div class="row">
 			<h3 class="large-6 columns">Le projet de la virgule</h3>
 		</div>
@@ -33,17 +43,17 @@ C’est sur ce site que la Ville de Strasbourg et la SPL Deux-Rives visent à co
 		<h4>Composition de la virgule</h4>
 		</div>
 		<div class="row">
-	  <div class="small-12 large-4 columns"><img class="menuiserie" src="wp-content/themes/coop_theme/assets/images/menuiserie.jpg"></div>
+	  <div class="small-12 large-4 columns"><a href="index.html"><img class="menuiserie" src="wp-content/themes/coop_theme/assets/images/menuiserie.jpg"/></a></div>
 	  <div class="small-12 large-4 columns"><img class="semencerie" src="wp-content/themes/coop_theme/assets/images/semencerie.jpg"></div>
 	  <div class="small-12 large-4 columns"><img class="garage" src="wp-content/themes/coop_theme/assets/images/garage.jpg"></div>
 	</div>
 </section>
 
-<section class="section-3 text-center">
+<section class="section-4 text-center">
 	<div class="row">
-	<h5>N’HESITEZ PLUS A REJOINDRE <br />
+	<h5>N’HESITEZ PLUS À REJOINDRE <br />
 		<strong>UN PROJET INNOVANT</strong> ET <strong> DEVENEZ <br />
-		INVESTISEURS DE LA COOPÉRATRIVE CRÉATIVE</strong></h5>
+		INVESTISSEURS DE LA COOPÉRATIVE CRÉATIVE</strong></h5>
 		<a href="about.html" class="button">REJOINDRE LE PROJET</a>
 	</div>
 	</section>
